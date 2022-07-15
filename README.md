@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://media4.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif?cid=790b76117004c2e76178a5ee4f953c8e93d4b4831b68b79d&rid=giphy.gif&ct=g" align="center" width="100%">
+<img src="https://media4.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif?cid=790b76117004c2e76178a5ee4f953c8e93d4b4831b68b79d&rid=giphy.gif&ct=g" align="center" width="800px">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"/>, I'm Mary!</h1>
 </div>
