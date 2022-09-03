@@ -7,7 +7,7 @@
 
  
 <br>
-<h4 align="center">🌱 I just finished the course with <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> Boolean careers to become a Full-Stack Web Developer</h4>
+<h4 align="center">🌱 After the course with <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> Boolean careers I became a Full-Stack Web Developer</h4>
 <br>
 
 
@@ -16,13 +16,18 @@
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40"/></a>
+    <a style="padding-right:8px;" href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-  original.svg" width="40" height="40"/></a>
+    <a style="padding-right:8px;" href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/></a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
     <a href="https://vuejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/></a>
     <a href="https://www.php.net/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/></a>
     <a href="https://laravel.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> </a>
+        <a style="padding-right:8px;" href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>
+   <a style="padding-right:8px;" href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+   <a style="padding-right:8px;" href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/></a>
 
 </p>
 
