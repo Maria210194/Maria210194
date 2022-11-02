@@ -26,8 +26,6 @@
     <a href="https://www.php.net/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>  </a>
     <a href="https://laravel.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> </a>
     <a style="padding-right:8px;"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-    <a style="padding-right:8px;"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>
-    <a style="padding-right:8px;"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/></a>
 
 </p>
 
