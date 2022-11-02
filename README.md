@@ -8,6 +8,8 @@
  
 <br>
 <h4 align="center">🌱 After the course with <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> Boolean careers I became a Full-Stack Web Developer</h4>
+<h4 align="center"> Now I work for <img align="center" src="https://i.postimg.cc/5NMkb0TP/enhancers.png" alt="boolean.careers" height="30" width="30" /> Enhancers as a web developer! 
+</h4>
 <br>
 
 
